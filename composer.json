@@ -8,5 +8,13 @@
             "name": "vijay"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "Test2\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "php": ">=7.4"
+    }
 }
