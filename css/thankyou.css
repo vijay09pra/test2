@@ -1,0 +1,29 @@
+.thank_img img{
+    width: 200px;
+    border-bottom-left-radius: 50px;
+}
+.map{
+    width: 500px;
+    max-width: 100%;
+    margin: 65px auto 0;
+    background: #fffbf5;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.map img {
+    width: 200px;
+    margin-top: -40px;
+}
+.btn_blue{
+    background: #1e40af;
+}
+.btn_light {
+    background: #eff4fe;
+}
+.btn_design {
+    padding: 15px 20px;
+    border-radius: 50px;
+    width: 200px;
+    display: inline-block;
+    text-decoration: none;
+}
