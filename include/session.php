@@ -18,7 +18,7 @@ function curlUsingPost($url, $data)
         return 'Error: invalid Url or Data';
     }
 
-
+//testing code
     //url-ify the data for the POST
     $fields_string = '';
     foreach($data as $key=>$value) { $fields_string .= $key.'='.urlencode($value).'&'; }
