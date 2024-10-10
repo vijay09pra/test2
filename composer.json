@@ -1,6 +1,6 @@
 {
     "name": "vijay09pra/test2",
-    "description": "get files updated through composer update/upgrade on branch",
+    "description": "get files updated through composer install/update on branch",
     "type": "project",
     "license": "no",
     "authors": [
